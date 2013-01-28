@@ -20,10 +20,10 @@ You can buy packages that come with all of these components and more.  [This kit
 This class assumes you know a little bit about programming and a little bit about electronics.  You should be able to do the following:
 * Understand what the pseudocode below does.
 
- a = 10;
- b = 20;
- b = a;
- print b;
+    a = 10;
+    b = 20;
+    b = a;
+    print b;
 
 * Read the schematic below.
 
