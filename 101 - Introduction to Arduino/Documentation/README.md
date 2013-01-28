@@ -1,4 +1,4 @@
-# What you need for this class
+#What you need for this class
 * A computer
 * [The Arduino software](http://arduino.cc/en/Main/Software)
 * [Fritzing](http://fritzing.org/download/)
@@ -10,20 +10,25 @@
 * A momentary switch or button. I like [these](https://www.adafruit.com/products/367), but [these colored ones](https://www.adafruit.com/products/1009) are fun.  Just make sure they will work with your breadboard.
 * A Standard-A to Standard-B USB cable (squarish male on one end, rectangular male on the other)
 * 10 or 15 jumper wires. [This bundle](http://www.adafruit.com/products/153) has enough for most small-scale prototypes.
-## Packages
+
+##Packages
+
 You can buy packages that come with all of these components and more.  [This kit](http://www.adafruit.com/products/170) comes with everything you will need, including the Arduino Uno R3.
-# What you should know before you start
+
+#What you should know before you start
+
 This class assumes you know a little bit about programming and a little bit about electronics.  You should be able to do the following:
 * Understand what the pseudocode below does.
-    a = 10;
-	b = 20;
 
-	b = a;
-
-	print b;
+ a = 10;
+ b = 20;
+ b = a;
+ print b;
 
 * Read the schematic below.
+
   ![Schematic](https://raw.github.com/MakerspaceModules/arduino/master/101%20-%20Introduction%20to%20Arduino/Documentation/Button.png)
+
 * Explain what happens when you push the button depicted in the schematic.
 
 To learn how to do those things, take the Electronics 101 and Programming 101 classes.
