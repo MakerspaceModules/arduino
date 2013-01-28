@@ -34,3 +34,9 @@ print b
 * Explain what happens when you push the button depicted in the schematic.
 
 To learn how to do those things, take the Electronics 101 and Programming 101 classes.
+
+#What you will learn about in this class
+
+* The Arduino, its components and its specifications
+* Writing programs ("sketches") for the Arduino
+* Connecting the Arduino to simple analog and digital circuits
