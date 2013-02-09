@@ -1,10 +1,6 @@
-## 2/2/13
+## 2/2/13 Russ Lankenau, Workshop 88
 
-Instructor - Russ Lankenau
-
-Location - Workshop 88, Glen Ellyn, IL
-
-Organization - Workshop 88
+Location - Workshop 88, 15'x20' class room
 
 Attendees - 6
 
