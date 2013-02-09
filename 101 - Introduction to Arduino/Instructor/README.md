@@ -2,6 +2,8 @@
 
 A presentation to accompany these labs is available on [Prezi](http://prezi.com/bonzhtuceyc4/intro-to-arduino/?kw=view-bonzhtuceyc4&rc=ref-29668303).  It goes through Arduino 101, 201, 202, and 301.  The instructor is typically required to diagnose hardware issues, so make sure you are familiar with the labs and know how to analyze a circuit.  The software is provided, but have a few ideas about how a student could take extra steps for each lab if they finish early.  These can also be assigned as homework if you would like the course to be taught over a few sessions.
 
+This lab typically takes 2 hours.  The biggest problem is students having trouble with the Arduino software.  This has gotten better since 1.0 was released, but make sure that everyone can upload a sketch before you start.
+
 ## Extended lab suggestions
 
 ### Lab 1
@@ -19,8 +21,14 @@ A presentation to accompany these labs is available on [Prezi](http://prezi.com/
 
 * Add two potentiometers and build a calibration circuit for the darkness detector.
 
-The suggested flow for the class is as follows:
+## Suggested class flow
 
+## Before students arrive
+
+* Print out the lab handouts.
+* Have at least one copy of the [Arduino cheatsheet](https://github.com/MakerspaceModules/arduino/blob/master/101%20-%20Introduction%20to%20Arduino/Documentation/Arduino_Cheat_Sheet.pdf) available.
+
+## During class
 * Help students install Arduino software as they arrive.  There is usually at least one student that has issues, so it is better to make sure everybody is able to upload a sketch before you start the class.
 * Talk with students about background, familiarity with programming and electronics concepts
 * Present background on Arduino as a platform and as a device
