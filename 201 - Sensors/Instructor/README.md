@@ -12,7 +12,8 @@ Please fill in if you have suggestions.
 
 ### Before students arrive
 * Print out handouts under Documentation/Handouts/
-* Have at least one copy of the Arduino 101 cheatsheet ready. (To be created)
+* Have at least one copy of the [Arduino cheatsheet](https://github.com/MakerspaceModules/arduino/blob/master/101%20-%20Introduction%20to%20Arduino/Documentation/Arduino_Cheat_Sheet.pdf) available. 
+
 ### During class
 * Make sure students have taken Arduino 101.  If more than one student has not taken the preceding class, spend a bit more time on review.
 * Review the concepts in Arduino 101, going over the Arduino 101 handout if necessary.
