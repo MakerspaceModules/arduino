@@ -1,9 +1,13 @@
 ## 2/2/13
 
 Instructor - Russ Lankenau
+
 Location - Workshop 88, Glen Ellyn, IL
+
 Organization - Workshop 88
+
 Attendees - 6
+
 Duration - 2 hours
 
 ### Notes
