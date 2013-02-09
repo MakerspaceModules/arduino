@@ -23,12 +23,12 @@ This lab typically takes 2 hours.  The biggest problem is students having troubl
 
 ## Suggested class flow
 
-## Before students arrive
+### Before students arrive
 
 * Print out the lab handouts.
 * Have at least one copy of the [Arduino cheatsheet](https://github.com/MakerspaceModules/arduino/blob/master/101%20-%20Introduction%20to%20Arduino/Documentation/Arduino_Cheat_Sheet.pdf) available.
 
-## During class
+### During class
 * Help students install Arduino software as they arrive.  There is usually at least one student that has issues, so it is better to make sure everybody is able to upload a sketch before you start the class.
 * Talk with students about background, familiarity with programming and electronics concepts
 * Present background on Arduino as a platform and as a device
