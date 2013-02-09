@@ -1,4 +1,4 @@
-= Instructor Notes
+# Instructor Notes
 
 A presentation to accompany these labs is available on [Prezi](http://prezi.com/bonzhtuceyc4/intro-to-arduino/?kw=view-bonzhtuceyc4&rc=ref-29668303).  It goes through Arduino 101, 201, 202, and 301.  The instructor is typically required to diagnose hardware issues, so make sure you are familiar with the labs and know how to analyze a circuit.  The software is provided, but have a few ideas about how a student could take extra steps for each lab if they finish early.  These can also be assigned as homework if you would like the course to be taught over a few sessions.
 
