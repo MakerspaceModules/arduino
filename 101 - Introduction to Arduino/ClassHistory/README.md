@@ -17,3 +17,14 @@ We taught this class between 2011 and 2013 for various audiences.  The most succ
 #### What works well
 * Have extra supplies (220 ohm and 10K resistors, LEDs, buttons, breadboards, jumpers) available.  These aren't that expensive, and somebody will be missing components.
 
+## February 2013 - Andrew Morrison, Workshop 88
+
+Location - Workshop 88, 15'x20' classroom. 
+
+Attendees - 3, 2 adult, 1 child (age ~10)
+
+Duration - 2 hours, 15 minutes
+
+### Notes
+
+Discussion during the introduction part of the class was surprisingly low-level. Attendees were interested in chip architecture more than most 101 classes. Had to rush through some of the exercises and skipped over the first PWM lab.
